@@ -49,5 +49,4 @@ int main() {
     }
 
     pcap_close(handle);
-    return 0;
 }
